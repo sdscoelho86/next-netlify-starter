@@ -15,7 +15,7 @@ export default function Home() {
         <p className="description">
           Compre passagens de embarcações online!
         </p>
-      <img alt="Apple Store" src="/google-pt.png">
+       <img alt="Apple Store" src="/google-pt.png">
        <img alt="Google Play" src="/google-pt.png">
       </main>
 
